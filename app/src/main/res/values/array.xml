@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="challenges">
+        <item>Успех близок</item>
+        <item>Любовь ждёт</item>
+        <item>Богатство придёт</item>
+        <item>Мечта сбудется</item>
+        <item>Здоровье улучшится</item>
+
+        <item>Перемены грядут</item>
+        <item>Ждите новостей</item>
+        <item>Будьте бдительны</item>
+        <item>Доверьтесь интуиции</item>
+        <item>Время решений</item>
+
+        <item>Будьте осторожны</item>
+        <item>Возможны трудности</item>
+        <item>Берегите деньги</item>
+        <item>Избегайте конфликтов</item>
+        <item>Проверьте здоровье</item>
+    </string-array>
+</resources>
